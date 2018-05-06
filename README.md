@@ -1,8 +1,11 @@
 # bioinformatics_datasets
 
 ## Tools
+Genome Alignment - https://blast.ncbi.nlm.nih.gov/Blast.cgi
+
 
 ## Dataportals
+Omics Research - https://github.com/JEFworks/public-bioinformatics-datasets
 
 ## Sequence Analysis
 
