@@ -3,6 +3,8 @@
 ## Tools
 Genome Alignment - https://blast.ncbi.nlm.nih.gov/Blast.cgi
 https://github.com/jdidion/biotools
+https://github.com/biopro/genix (An automated pipeline for bacterial genome annotation)
+https://github.com/lmrodriguezr/rocker(not sure)
 
 ## Datasets
 https://github.com/OpenGene/awesome-bio-datasets
